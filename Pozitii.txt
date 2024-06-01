@@ -1,0 +1,26 @@
+6 Cursuri
+
+
+Grafuri
+
+1. Verifica DFS pe youtube
+2.Verifica BFS pe youtube
+3.Invata un alg de tare conexitate
+
+
+
+Sortari
+Cautari
+
+
+
+Arbori echilibrati
+
+Mai baga baga 2 3 exemple cu numer din intervale mai mari alese random si estii bines pe caripces
+
+
+Tabele de dispersie
+Arbori digitali
+
+
+

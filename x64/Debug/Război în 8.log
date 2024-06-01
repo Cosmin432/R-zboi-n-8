@@ -1,0 +1,27 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Război în 8.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  File_1.cpp
+C:\Users\Talentul Romaniei V4\source\repos\Război în 8\File_1.cpp(259,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Talentul Romaniei V4\source\repos\Război în 8\File_1.cpp(259,101): warning C4244:         with
+C:\Users\Talentul Romaniei V4\source\repos\Război în 8\File_1.cpp(259,101): warning C4244:         [
+C:\Users\Talentul Romaniei V4\source\repos\Război în 8\File_1.cpp(259,101): warning C4244:             T=unsigned int
+C:\Users\Talentul Romaniei V4\source\repos\Război în 8\File_1.cpp(259,101): warning C4244:         ]
+C:\Users\Talentul Romaniei V4\source\repos\Război în 8\File_1.cpp(259,101): warning C4244:         and
+C:\Users\Talentul Romaniei V4\source\repos\Război în 8\File_1.cpp(259,101): warning C4244:         [
+C:\Users\Talentul Romaniei V4\source\repos\Război în 8\File_1.cpp(259,101): warning C4244:             T=float
+C:\Users\Talentul Romaniei V4\source\repos\Război în 8\File_1.cpp(259,101): warning C4244:         ]
+C:\Users\Talentul Romaniei V4\source\repos\Război în 8\File_1.cpp(287,34): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\Users\Talentul Romaniei V4\source\repos\Război în 8\File_1.cpp(287,34): warning C4566: character represented by universal-character-name '\u021B' cannot be represented in the current code page (1252)
+C:\Users\Talentul Romaniei V4\source\repos\Război în 8\File_1.cpp(690,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Talentul Romaniei V4\source\repos\Război în 8\File_1.cpp(691,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Talentul Romaniei V4\source\repos\Război în 8\File_1.cpp(713,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Talentul Romaniei V4\source\repos\Război în 8\File_1.cpp(714,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Talentul Romaniei V4\source\repos\Război în 8\File_1.cpp(744,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Talentul Romaniei V4\source\repos\Război în 8\File_1.cpp(745,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Talentul Romaniei V4\source\repos\Război în 8\File_1.cpp(772,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Talentul Romaniei V4\source\repos\Război în 8\File_1.cpp(773,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Talentul Romaniei V4\source\repos\Război în 8\File_1.cpp(873,34): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\Users\Talentul Romaniei V4\source\repos\Război în 8\File_1.cpp(898,34): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\Users\Talentul Romaniei V4\source\repos\Război în 8\File_1.cpp(901,34): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\Users\Talentul Romaniei V4\source\repos\Război în 8\File_1.cpp(904,34): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\Users\Talentul Romaniei V4\source\repos\Război în 8\File_1.cpp(907,34): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+  Război în 8.vcxproj -> C:\Users\Talentul Romaniei V4\source\repos\Război în 8\x64\Debug\Razboi în 8.exe
